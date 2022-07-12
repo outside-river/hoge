@@ -4,11 +4,6 @@ using UnityEngine;
 
 public class hoge : MonoBehaviour
 {
-    //
-    //
-    //‚¤‚í‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ ‚ 
-    //
-    //
     // Start is called before the first frame update
     void Start()
     {
